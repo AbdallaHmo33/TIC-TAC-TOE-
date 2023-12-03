@@ -1,5 +1,5 @@
-#React Tic-Tac-Toe
-#Overview
+Tic-Tac-Toe
+Overview
 This is a simple Tic-Tac-Toe game implemented using React, a popular JavaScript library for building user interfaces. It provides a responsive and interactive gaming experience for two players.
 
 Features
